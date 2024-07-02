@@ -55,18 +55,6 @@
             "vercel":"https://add-up-khaki.vercel.app/",
             "description":"A simple AddUp calculator that you can use to add the sum of values, built using HTML, CSS and JavaScript.",
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095833.png"
-        },
-        {
-            "name":"Listening Siill",
-            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/21603-200.png?raw=true"
-        },
-        {
-            "name":"Panctuality",
-            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/2083445.png?raw=true"
-        },
-        {
-            "name":"Communication",
-            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/5760043%20copy.png?raw=true"
         }
     ],
     "education":[
@@ -112,6 +100,18 @@
         {
             "name":"VueJS",
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/download%20(1).png"
+        },
+        {
+            "name":"Listening Skill",
+            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/21603-200.png?raw=true"
+        },
+        {
+            "name":"Panctuality",
+            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/2083445.png?raw=true"
+        },
+        {
+            "name":"Communication",
+            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/5760043%20copy.png?raw=true"
         }
     ],
     "testimonials":[
