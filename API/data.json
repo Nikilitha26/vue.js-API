@@ -1,0 +1,155 @@
+{
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/candice-dk3/Calculator.git",
+            "vercel":"https://calculator-zeta-vert-97.vercel.app/",
+            "description":"A simple calculator built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-05-10%20074805.png"
+        },
+        {
+            "name":"Keyboard",
+            "github":"https://github.com/Nikilitha26/KEYBOARD.git",
+            "vercel":"https://keyboard-weld.vercel.app/",
+            "description":"A simple keyboard built using HTML and CSS.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-05-10%20074844.png"
+        },
+        {
+            "name":"Temperature Convertor",
+            "github":"https://github.com/Nikilitha26/Temperature-Converter.git",
+            "vercel":"https://temperature-converter-two-mu.vercel.app/",
+            "description":"A simple Temperature calculator built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095001.png"
+        },
+        {
+            "name":"Swegga-project",
+            "github":"https://github.com/Nikilitha26/SWEGGA.git",
+            "vercel":"https://swegga-two.vercel.app/",
+            "description":"A simple website built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095311.png"
+        },
+        {
+            "name":"BMI-Calculator",
+            "github":"https://github.com/Nikilitha26/BMI-calculator.git",
+            "vercel":"https://bmi-calculator-rose-seven.vercel.app/",
+            "description":"A simple BMI calculator built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095433.png"
+        },
+        {
+            "name":"Interest Amount Task",
+            "github":"https://github.com/Nikilitha26/interestAmountTask",
+            "vercel":"https://interest-amount-task.vercel.app/",
+            "description":"A simple InterestAmount calculator built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095603.png"
+        },
+        {
+            "name":"Minimum And Maximum",
+            "github":"https://github.com/Nikilitha26/minMax",
+            "vercel":"https://min-max-six.vercel.app/",
+            "description":"A simple page that helps you take out a minimun and maximum value,, built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095739.png"
+        },
+        {
+            "name":"AddUp Calculator",
+            "github":"https://github.com/Nikilitha26/addUP",
+            "vercel":"https://add-up-khaki.vercel.app/",
+            "description":"A simple AddUp calculator that you can use to add the sum of values, built using HTML, CSS and JavaScript.",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095833.png"
+        },
+        {
+            "name":"Listening Siill",
+            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/21603-200.png?raw=true"
+        },
+        {
+            "name":"Panctuality",
+            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/2083445.png?raw=true"
+        },
+        {
+            "name":"Communication",
+            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/5760043%20copy.png?raw=true"
+        }
+    ],
+    "education":[
+        {
+            "description":"My primary school years. Completed at the age of 12.",
+            "year":"2009-2015",
+            "placeOfInstitution":"Isikhokelo Primary School"
+        },
+        
+        {
+            "description":"My high school years.  Completed my matric with a bachelor's degree.",
+            "year":"2016-2020",
+            "placeOfInstitution":"Intlanganiso high school"
+        },
+        {
+            "description":"My university journey. I did my Psychology degree for 3 years and graduted in early 2024.",
+            "year":"2021-2023",
+            "placeOfInstitution":"Nelson Mandela University."
+        },
+        {
+            "description":"My first ever coding school.  This is the school where I learnt coding for the very first time.",
+            "year":"2nd April 2024 - to present/current",
+            "placeOfInstitution":"Life Choices Coding Academy"
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/icone-html-orange.png?raw=true"
+        },
+        {
+            "name":"CSS",
+            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/css-3-icon-726x1024-610441pl.png?raw=true"
+        },
+        {
+            "name":"JavaScript",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/f3215d1b7a7360cdc2412b47106214e55f68e5c3/download%20(2).png"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/5968672.png?raw=true"
+        },
+        {
+            "name":"VueJS",
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/download%20(1).png"
+        }
+    ],
+    "testimonials":[
+        {
+            "image": "https://github.com/Nikilitha26/Boot-img/blob/main/Image/IMG-20240420-WA0018.jpg?raw=true",
+            "name":"Kayden Hendrieks",
+            "position":"Fellow colleague",
+            "message":"Nikilitha's innovative approach to solving problems is commendable. She consistently find unique solutions.”"
+        },
+        {
+            "image": "https://github.com/Nikilitha26/Boot-img/blob/main/Image/portfolio%20img.jpg?raw=true",
+            "name":"Caitlin Dalwai",
+            "position":"Fellow colleague",
+            "message":"Having worked closely with Niki at Life Choices Academy, I wholeheartedly recommend her for any role within your esteemed tech company. Niki possesses an exceptional blend of technical expertise, innovative thinking, and a strong work ethic that consistently delivers outstanding results.Her ability to grasp complex technical concepts swiftly and apply them effectively in practical scenarios is truly impressive."
+        },
+        {
+            "image": "https://github.com/Nikilitha26/Boot-img/blob/main/Image/2024-05-10-01-59-43-860.jpg?raw=true",
+            "name":"Masoodah Geoerge",
+            "position":"Fellow colleague",
+            "message":"It's always a pleasure to work with Nikilitha. Her enthusiastic character uplifts the room 100% of the time. Any organization would be lucky to have her as an employee. Her unwavering determination is something I deeply admire. Her resilience in the face of challenges is nothing short of awe-inspiring."
+        },
+        {
+            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/20240422_121133.jpg?raw=true",
+            "name":"Nazneen Abrahams",
+            "position":"Fellow colleague",
+            "message":"Nikilitha's kindness knows no bounds, and it's truly inspiring. Her constant encouragement is a priceless gift to those around you"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/download.png",
+            "name":"Matthew Dean Brown",
+            "position":"Fellow colleague",
+            "message":"Nikilitha brings positivity to the workplace. Even during tough times, she maintains an optimistic outlook, motivating others and creating a pleasant atmosphere. Nikilitha approaches challenges with ingenuity. She thinks outside the box, propose innovative solutions, and adapt well to unexpected situations. Her creativity adds value to the team."
+        },
+        {
+            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/20240422_114556.jpg?raw=true",
+            "name":"Candice Keet",
+            "position":"Fellow colleague",
+            "message":"Nikilitha is one of the most hard-working people I've around. She just spreads joy wherever she is and is always looking for ways to improve her coding skills. Nikilitha has helped me grow so much since I've been her company,she has a way of just spreading positivity wherever she is.Her personality is the best reflection of how she treats herself, her work and as well as the people around her. Having her in your team will guarantee you nothing but success."
+        }
+    ]
+}
