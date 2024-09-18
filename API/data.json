@@ -29,6 +29,13 @@
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095311.png"
         },
         {
+            "name":"Minimum And Maximum",
+            "github":"https://github.com/Nikilitha26/minMax",
+            "vercel":"https://min-max-six.vercel.app/",
+            "description":"This Minimum and Maximum Calculator is a web application that allows users to quickly and easily determine the minimum and maximum values of a set of numbers. Developed using HTML, JavaScript, and CSS, the calculator provides a simple and efficient way to solve common math problems.",
+            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20151332.png"
+        },
+        {
             "name":"Interest Amount Task",
             "github":"https://github.com/Nikilitha26/interestAmountTask",
             "vercel":"https://interest-amount-task.vercel.app/",
@@ -48,13 +55,6 @@
             "vercel":"https://bmi-calculator-rose-seven.vercel.app/",
             "description":"This BMI Calculator is a user-friendly web application that allows individuals to determine their Body Mass Index (BMI) based on their height and weight. Developed using HTML, JavaScript, and CSS, the calculator offers a simple and convenient way to assess overall health and fitness.",
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20143356.png"
-        },
-        {
-            "name":"Minimum And Maximum",
-            "github":"https://github.com/Nikilitha26/minMax",
-            "vercel":"https://min-max-six.vercel.app/",
-            "description":"This Minimum and Maximum Calculator is a web application that allows users to quickly and easily determine the minimum and maximum values of a set of numbers. Developed using HTML, JavaScript, and CSS, the calculator provides a simple and efficient way to solve common math problems.",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20151332.png"
         },
         {
             "name":"AddUp Calculator",
