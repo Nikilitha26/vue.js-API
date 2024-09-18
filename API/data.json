@@ -29,6 +29,13 @@
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095311.png"
         },
         {
+            "name":"Interest Amount Task",
+            "github":"https://github.com/Nikilitha26/interestAmountTask",
+            "vercel":"https://interest-amount-task.vercel.app/",
+            "description":"This Interest Amount Calculator is a web application that allows users to easily calculate the amount of interest that will be accrued on a loan or investment. Developed using HTML, JavaScript, and CSS, the calculator provides a user-friendly interface that makes calculating interest simple and straightforward. ",
+            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20131146.png"
+        },
+        {
             "name":"Temperature Convertor",
             "github":"https://github.com/Nikilitha26/Temperature-Converter.git",
             "vercel":"https://temperature-converter-two-mu.vercel.app/",
@@ -41,13 +48,6 @@
             "vercel":"https://bmi-calculator-rose-seven.vercel.app/",
             "description":"This BMI Calculator is a user-friendly web application that allows individuals to determine their Body Mass Index (BMI) based on their height and weight. Developed using HTML, JavaScript, and CSS, the calculator offers a simple and convenient way to assess overall health and fitness.",
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095433.png"
-        },
-        {
-            "name":"Interest Amount Task",
-            "github":"https://github.com/Nikilitha26/interestAmountTask",
-            "vercel":"https://interest-amount-task.vercel.app/",
-            "description":"This Interest Amount Calculator is a web application that allows users to easily calculate the amount of interest that will be accrued on a loan or investment. Developed using HTML, JavaScript, and CSS, the calculator provides a user-friendly interface that makes calculating interest simple and straightforward. ",
-            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095603.png"
         },
         {
             "name":"Minimum And Maximum",
