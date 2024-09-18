@@ -82,8 +82,15 @@
         },
         {
             "description":"My first ever coding school.  This is the school where I learnt coding for the very first time.",
-            "year":"2nd April 2024 - to present/current",
+            "year":"2nd April 2024 - September 2024",
             "placeOfInstitution":"Life Choices Coding Academy"
+        }
+    ],
+    "experience":[
+        {
+            "company": "Life Choices",
+            "period": "September 2024 - current",
+            "position": "Web Development Intern"
         }
     ],
     "skills":[
