@@ -4,14 +4,14 @@
             "name":"MindWell",
             "github":"https://github.com/Nikilitha26/capstoneProject.git",
             "vercel":"https://capstoneproject-dcb91.web.app/",
-            "description":"MindWell is a mental health care platform designed to provide easy access to high-quality and affordable mental health services across South Africa. The platform is built using a variety of cutting-edge technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap. The use of these technologies allows MindWell to provide a user-friendly and responsive interface for clients, while also ensuring the secure handling of sensitive information. The platform offers a range of mental health services, including online counseling, mindfulness-based therapies, and CBT, all provided by a team of experienced and compassionate psychologists and counselors.",
+            "description":"MindWell is a mental health care platform designed to provide easy access to high-quality and affordable mental health services across South Africa. The platform is built using a variety of cutting-edge technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap.",
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20101712.png"
         },
         {
             "name":"Majestic Scent",
             "github":"https://github.com/DanielUmetor/nodejsEOMP.git",
             "vercel": "https://nodeeomp-76594.web.app/",
-            "description":"Majestic Scent Perfume Company is an ecommerce platform that provides a wide selection of high-quality fragrances, including perfumes, colognes, and body sprays. The platform is built using the latest web technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap, to provide an intuitive and responsive user experience. The site offers a user-friendly search function and product filters to help customers easily find the perfect scent. With secure payment processing and fast shipping, Majestic Scent is dedicated to providing customers with a pleasant and convenient shopping experience.",
+            "description":"Majestic Scent Perfume Company is an ecommerce platform that provides a wide selection of high-quality fragrances,. The platform is built using the latest web technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap, to provide an intuitive and responsive user experience.",
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20105313.png"
         },
         {
