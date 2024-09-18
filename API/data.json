@@ -43,18 +43,18 @@
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20143356.png"
         },
         {
-            "name":"Interest Amount Task",
-            "github":"https://github.com/Nikilitha26/interestAmountTask",
-            "vercel":"https://interest-amount-task.vercel.app/",
-            "description":"This Interest Amount Calculator is a web application that allows users to easily calculate the amount of interest that will be accrued on a loan or investment. Developed using HTML, JavaScript, and CSS, the calculator provides a user-friendly interface that makes calculating interest simple and straightforward. ",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20131146.png"
-        },
-        {
             "name":"Temperature Convertor",
             "github":"https://github.com/Nikilitha26/Temperature-Converter.git",
             "vercel":"https://temperature-converter-two-mu.vercel.app/",
             "description":"This Temperature Converter is a simple yet effective web application that allows users to convert between Fahrenheit, Celsius, and Kelvin temperatures. Developed using HTML, JavaScript, and CSS, the converter features a user-friendly interface that makes temperature conversion easy and intuitive.",
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20140755.png"
+        },
+        {
+            "name":"Interest Amount Task",
+            "github":"https://github.com/Nikilitha26/interestAmountTask",
+            "vercel":"https://interest-amount-task.vercel.app/",
+            "description":"This Interest Amount Calculator is a web application that allows users to easily calculate the amount of interest that will be accrued on a loan or investment. Developed using HTML, JavaScript, and CSS, the calculator provides a user-friendly interface that makes calculating interest simple and straightforward. ",
+            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20131146.png"
         },
         {
             "name":"AddUp Calculator",
@@ -65,12 +65,6 @@
         }
     ],
     "education":[
-        {
-            "description":"My primary school years. Completed at the age of 12.",
-            "year":"2009-2015",
-            "placeOfInstitution":"Isikhokelo Primary School"
-        },
-        
         {
             "description":"I did my grade in this school.Had to change schools since I didn't want to do business studies.",
             "year":"2016-2016",
