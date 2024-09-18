@@ -29,13 +29,6 @@
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095311.png"
         },
         {
-            "name":"Keyboard",
-            "github":"https://github.com/Nikilitha26/KEYBOARD.git",
-            "vercel":"https://keyboard-weld.vercel.app/",
-            "description":"A simple keyboard built using HTML and CSS.",
-            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-05-10%20074844.png"
-        },
-        {
             "name":"Temperature Convertor",
             "github":"https://github.com/Nikilitha26/Temperature-Converter.git",
             "vercel":"https://temperature-converter-two-mu.vercel.app/",
