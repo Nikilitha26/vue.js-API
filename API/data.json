@@ -15,19 +15,19 @@
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20105313.png"
         },
         {
+            "name":"E-cormmece",
+            "github":"https://github.com/Nikilitha26/e-commerce",
+            "vercel":"https://e-commerce-black-nine.vercel.app/",
+            "description":"Niki's Flex Fit Gym Wear is an ecommerce platform that offers high-quality and stylish workout clothing and accessories for women. Developed using cutting-edge web technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap, the site provides a seamless and responsive shopping experience for customers.",
+            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20114119.png"
+        },
+        {
             "name":"Swegga-project",
             "github":"https://github.com/Nikilitha26/SWEGGA.git",
             "vercel":"https://swegga-two.vercel.app/",
             "description":"A simple website built using HTML, CSS and JavaScript.",
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095311.png"
         },
-        // {
-        //     "name":"Calculator",
-        //     "github":"https://github.com/candice-dk3/Calculator.git",
-        //     "vercel":"https://calculator-zeta-vert-97.vercel.app/",
-        //     "description":"A simple calculator built using HTML, CSS and JavaScript.",
-        //     "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-05-10%20074805.png"
-        // },
         {
             "name":"Keyboard",
             "github":"https://github.com/Nikilitha26/KEYBOARD.git",
@@ -68,13 +68,6 @@
             "github":"https://github.com/Nikilitha26/addUP",
             "vercel":"https://add-up-khaki.vercel.app/",
             "description":"A simple AddUp calculator that you can use to add the sum of values, built using HTML, CSS and JavaScript.",
-            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095833.png"
-        },
-        {
-            "name":"E-cormmece",
-            "github":"https://github.com/Nikilitha26/e-commerce",
-            "vercel":"https://e-commerce-black-nine.vercel.app/",
-            "description":"Niki's Flex Fit Gym Wear is an ecommerce platform that offers high-quality and stylish workout clothing and accessories for women. Developed using cutting-edge web technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap, the site provides a seamless and responsive shopping experience for customers.",
             "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095833.png"
         }
     ],
