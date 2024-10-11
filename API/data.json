@@ -98,7 +98,7 @@
             "position": "Architectural Job Shadower"
         }
     ],
-    "skills":[
+    "technicalskills":[
         {
             "name":"HTML",
             "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/icone-html-orange.png?raw=true"
@@ -130,7 +130,9 @@
         {
             "name":"Figma",
             "image":"https://nikilitha26.github.io/vue.jsImages/figma-removebg-preview.png"
-        },
+        }
+    ],
+    "softskills":[
         {
             "name":"Listening Skill",
             "image":"https://github.com/Nikilitha26/Project/blob/main/Images/21603-200.png?raw=true"
@@ -142,6 +144,23 @@
         {
             "name":"Communication",
             "image":"https://github.com/Nikilitha26/Project/blob/main/Images/5760043%20copy.png?raw=true"
+        }
+    ],
+    "mybadges":[
+        {
+            "name":"AWS Cloud & Networking Certificates",
+            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-10-11%20130951.png",
+            "certificate":"https://nikilitha26.github.io/vue.jsImages/CISCO%20Certificate.pdf"
+        },
+        {
+            "name": "Linux Unhached Certificate",
+            "image": "https://nikilitha26.github.io/vue.jsImages/linux-unhatched.png",
+            "certificate": "https://nikilitha26.github.io/vue.jsImages/LinuxUnhatched20241011-7-rrqg0p.pdf"
+        },
+        {
+            "name":"Operation System Basics",
+            "image":"https://nikilitha26.github.io/vue.jsImages/operating-systems-basics.png",
+            "certificate":"https://nikilitha26.github.io/vue.jsImages/Operating_Systems_Basics_Badge20241011-7-gvw28u.pdf"
         }
     ],
     "testimonials":[
