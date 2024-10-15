@@ -148,20 +148,20 @@
     ],
     "mybadges":[
         {
-            "name":"AWS Certificates",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-10-11%20130951.png",
-            "certificate":"https://nikilitha26.github.io/vue.jsImages/CISCO%20Certificate.pdf"
-        },
-        {
+            "name": "AWS Certificates",
+            "image": "https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-10-11%20130951.png",
+            "certificate": "https://nikilitha26.github.io/vue.jsImages/CISCO%20Certificate.pdf"
+          },
+          {
             "name": "Linux Certificate",
             "image": "https://nikilitha26.github.io/vue.jsImages/linux-unhatched.png",
             "certificate": "https://nikilitha26.github.io/vue.jsImages/LinuxUnhatched20241011-7-rrqg0p.pdf"
-        },
-        {
-            "name":"Operation System",
-            "image":"https://nikilitha26.github.io/vue.jsImages/operating-systems-basics.png",
-            "certificate":"https://nikilitha26.github.io/vue.jsImages/Operating_Systems_Basics_Badge20241011-7-gvw28u.pdf"
-        }
+          },
+          {
+            "name": "Operation System",
+            "image": "https://nikilitha26.github.io/vue.jsImages/operating-systems-basics.png",
+            "certificate": "https://nikilitha26.github.io/vue.jsImages/Operating_Systems_Basics_Badge20241011-7-gvw28u.pdf"
+          }
     ],
     "testimonials":[
         {
