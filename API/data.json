@@ -98,7 +98,7 @@
             "position": "Architectural Job Shadower"
         }
     ],
-    "technicalskills":[
+    "skills":[
         {
             "name":"HTML",
             "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/icone-html-orange.png?raw=true"
@@ -130,9 +130,7 @@
         {
             "name":"Figma",
             "image":"https://nikilitha26.github.io/vue.jsImages/figma-removebg-preview.png"
-        }
-    ],
-    "softskills":[
+        },
         {
             "name":"Listening Skill",
             "image":"https://github.com/Nikilitha26/Project/blob/main/Images/21603-200.png?raw=true"
