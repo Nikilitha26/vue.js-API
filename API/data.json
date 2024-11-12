@@ -101,43 +101,43 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/icone-html-orange.png?raw=true"
+            "image":"https://nikilitha26.github.io/vue.jsImages/html-icon-3d-rendering-illustration-vector-removebg-preview.png"
         },
         {
             "name":"CSS",
-            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/css-3-icon-726x1024-610441pl.png?raw=true"
+            "image":"https://nikilitha26.github.io/vue.jsImages/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-removebg-preview.png"
         },
         {
             "name":"JavaScript",
-            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/f3215d1b7a7360cdc2412b47106214e55f68e5c3/download%20(2).png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/download-removebg-preview.png"
         },
         {
             "name":"Bootstrap",
-            "image":"https://github.com/Nikilitha26/Boot-img/blob/main/Image/5968672.png?raw=true"
+            "image":"https://nikilitha26.github.io/vue.jsImages/png-clipart-bootstrap-logo-thumbnail-tech-companies-removebg-preview.png"
         },
         {
             "name":"VueJS",
-            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/download%20(1).png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/images-removebg-preview.png"
         },
         {
             "name":"MySQL",
-            "image":"https://nikilitha26.github.io/vue.jsImages/msql3-removebg-preview.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/database-logo-microsoft-sql-server-trademark-text-removebg-preview.png"
         },
         {
             "name":"NodeJS",
-            "image":"https://nikilitha26.github.io/vue.jsImages/nodejs-removebg-preview.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development-thumbnail-removebg-preview.png"
         },
         {
             "name":"Figma",
-            "image":"https://nikilitha26.github.io/vue.jsImages/figma-removebg-preview.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail-removebg-preview.png"
         },
         {
             "name":"Listening Skill",
-            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/21603-200.png?raw=true"
+            "image":"https://nikilitha26.github.io/vue.jsImages/istockphoto-1510959959-612x612-removebg-preview.png"
         },
         {
             "name":"Panctuality",
-            "image":"https://github.com/Nikilitha26/Project/blob/main/Images/2083445.png?raw=true"
+            "image":"https://nikilitha26.github.io/vue.jsImages/download__2_-removebg-preview.png"
         },
         {
             "name":"Communication",
@@ -147,7 +147,7 @@
     "mybadges":[
         {
             "name": "AWS Certificates",
-            "image": "https://nikilitha26.github.io/vue.jsImages/CISCO%20Certificate.pdf",
+            "image": "https://nikilitha26.github.io/vue.jsImages/AWS_Icon.jpg",
             "certificate": "https://nikilitha26.github.io/vue.jsImages/CISCO%20Certificate.pdf"
           },
           {
