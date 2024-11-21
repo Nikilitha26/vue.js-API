@@ -100,11 +100,11 @@
     ],
     "skills":[
         {
-            "name":"HTML",
+            "name":"HTML     " ,
             "image":"https://nikilitha26.github.io/vue.jsImages/html-icon-3d-rendering-illustration-vector-removebg-preview.png"
         },
         {
-            "name":"CSS",
+            "name":"CSS       ",
             "image":"https://nikilitha26.github.io/vue.jsImages/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-removebg-preview.png"
         },
         {
@@ -116,19 +116,19 @@
             "image":"https://nikilitha26.github.io/vue.jsImages/png-clipart-bootstrap-logo-thumbnail-tech-companies-removebg-preview.png"
         },
         {
-            "name":"VueJS",
+            "name":"VueJS    ",
             "image":"https://nikilitha26.github.io/vue.jsImages/images-removebg-preview.png"
         },
         {
-            "name":"MySQL",
+            "name":"MySQL    ",
             "image":"https://nikilitha26.github.io/vue.jsImages/database-logo-microsoft-sql-server-trademark-text-removebg-preview.png"
         },
         {
-            "name":"NodeJS",
+            "name":"NodeJS   ",
             "image":"https://nikilitha26.github.io/vue.jsImages/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development-thumbnail-removebg-preview.png"
         },
         {
-            "name":"Figma",
+            "name":"Figma    ",
             "image":"https://nikilitha26.github.io/vue.jsImages/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail-removebg-preview.png"
         },
         {
@@ -144,7 +144,7 @@
             "image":"https://nikilitha26.github.io/vue.jsImages/download__2_-removebg-preview.png"
         },
         {
-            "name":"Orator",
+            "name":"Orator  ",
             "image":"https://nikilitha26.github.io/vue.jsImages/timely-communication-removebg-preview.png"
         }
     ],
