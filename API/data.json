@@ -160,9 +160,14 @@
             "certificate": "https://nikilitha26.github.io/vue.jsImages/LinuxUnhatched20241011-7-rrqg0p.pdf"
           },
           {
-            "name": "Operation System",
+            "name": "Operation Systems",
             "image": "https://nikilitha26.github.io/vue.jsImages/operating-systems-basics.png",
             "certificate": "https://nikilitha26.github.io/vue.jsImages/Operating_Systems_Basics_Badge20241011-7-gvw28u.pdf"
+          },
+          {
+            "name": "JS Essentials 2",
+            "image": "https://nikilitha26.github.io/vue.jsImages/javascript-essentials-2.png",
+            "certificate": "https://nikilitha26.github.io/vue.jsImages/JavaScript_Essentials_2_Badge20241129-24-6tbh4o.pdf"
           },
           {
             "name": "WordPress Porfolio",
