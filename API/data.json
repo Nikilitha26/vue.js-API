@@ -33,7 +33,7 @@
             "github":"https://github.com/Nikilitha26/minMax",
             "vercel":"https://min-max-six.vercel.app/",
             "description":"This Minimum and Maximum Calculator is a web application that allows users to quickly and easily determine the minimum and maximum values of a set of numbers. Developed using HTML, JavaScript, and CSS, the calculator provides a simple and efficient way to solve common math problems.",
-            "image":"hhttps://nikilitha26.github.io/vue.jsImages/Minimum&Maximum.jpg"
+            "image":"https://nikilitha26.github.io/vue.jsImages/Minimum&Maximum.jpg"
         },
         {
             "name":"BMI-Calculator",
