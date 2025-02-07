@@ -12,56 +12,56 @@
             "github":"https://github.com/DanielUmetor/nodejsEOMP.git",
             "vercel": "https://nodeeomp-76594.web.app/",
             "description":"Majestic Scent Perfume Company is an ecommerce platform that provides a wide selection of high-quality fragrances,. The platform is built using the latest web technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap, to provide an intuitive and responsive user experience.",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20121342.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/MajesticScent.jpg"
         },
         {
             "name":"E-cormmece",
             "github":"https://github.com/Nikilitha26/e-commerce",
             "vercel":"https://e-commerce-black-nine.vercel.app/",
             "description":"Niki's Flex Fit Gym Wear is an ecommerce platform that offers high-quality and stylish workout clothing and accessories for women. Developed using cutting-edge web technologies, including Vue.js, Node.js, MySQL, HTML, JavaScript, CSS, and Bootstrap, the site provides a seamless and responsive shopping experience for customers.",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20114119.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/Niki'sFlexFit.jpg"
         },
         {
             "name":"Swegga-project",
             "github":"https://github.com/Nikilitha26/SWEGGA.git",
             "vercel":"https://swegga-two.vercel.app/",
             "description":"Swegga is a dynamic and interactive website that showcases the latest in fashion, music, and lifestyle trends. Designed using HTML, JavaScript, and CSS, the site provides visitors with an engaging and visually appealing user experience. ",
-            "image":"https://raw.githubusercontent.com/Nikilitha26/vue.jsImages/8a3f041808b69abba200c112845c270c6a81bb67/Screenshot%202024-06-26%20095311.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/SweggaFashion.jpg"
         },
         {
             "name":"Minimum And Maximum",
             "github":"https://github.com/Nikilitha26/minMax",
             "vercel":"https://min-max-six.vercel.app/",
             "description":"This Minimum and Maximum Calculator is a web application that allows users to quickly and easily determine the minimum and maximum values of a set of numbers. Developed using HTML, JavaScript, and CSS, the calculator provides a simple and efficient way to solve common math problems.",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20151332.png"
+            "image":"hhttps://nikilitha26.github.io/vue.jsImages/Minimum&Maximum.jpg"
         },
         {
             "name":"BMI-Calculator",
             "github":"https://github.com/Nikilitha26/BMI-calculator.git",
             "vercel":"https://bmi-calculator-rose-seven.vercel.app/",
             "description":"This BMI Calculator is a user-friendly web application that allows individuals to determine their Body Mass Index (BMI) based on their height and weight. Developed using HTML, JavaScript, and CSS, the calculator offers a simple and convenient way to assess overall health and fitness.",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20143356.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/Caluculator.jpg"
         },
         {
             "name":"Temperature Converter",
             "github":"https://github.com/Nikilitha26/Temperature-Converter.git",
             "vercel":"https://temperature-converter-two-mu.vercel.app/",
             "description":"This Temperature Converter is a simple yet effective web application that allows users to convert between Fahrenheit, Celsius, and Kelvin temperatures. Developed using HTML, JavaScript, and CSS, the converter features a user-friendly interface that makes temperature conversion easy and intuitive.",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20140755.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/Caluculator.jpg"
         },
         {
             "name":"Interest Amount Task",
             "github":"https://github.com/Nikilitha26/interestAmountTask",
             "vercel":"https://interest-amount-task.vercel.app/",
             "description":"This Interest Amount Calculator is a web application that allows users to easily calculate the amount of interest that will be accrued on a loan or investment. Developed using HTML, JavaScript, and CSS, the calculator provides a user-friendly interface that makes calculating interest simple and straightforward. ",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20131146.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/Interest%20amount%20calculater.jpg"
         },
         {
             "name":"AddUp Calculator",
             "github":"https://github.com/Nikilitha26/addUP",
             "vercel":"https://add-up-khaki.vercel.app/",
             "description":"This Add Up Calculator is a web application that provides users with a quick and easy way to add up multiple numbers. Developed using HTML, JavaScript, and CSS, the calculator offers a simple and user-friendly interface that makes adding up numbers a breeze. ",
-            "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20154853.png"
+            "image":"https://nikilitha26.github.io/vue.jsImages/AddUp.jpg"
         }
     ],
     "education":[
