@@ -43,7 +43,7 @@
             "image":"https://nikilitha26.github.io/vue.jsImages/Screenshot%202024-09-18%20143356.png"
         },
         {
-            "name":"Temperature Convertor",
+            "name":"Temperature Converter",
             "github":"https://github.com/Nikilitha26/Temperature-Converter.git",
             "vercel":"https://temperature-converter-two-mu.vercel.app/",
             "description":"This Temperature Converter is a simple yet effective web application that allows users to convert between Fahrenheit, Celsius, and Kelvin temperatures. Developed using HTML, JavaScript, and CSS, the converter features a user-friendly interface that makes temperature conversion easy and intuitive.",
